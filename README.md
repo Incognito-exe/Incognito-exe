@@ -1,21 +1,20 @@
 <h1 align="center">Hi, I'm Filip</h1>
 <h3 align="center">"Everything is possible"</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=incognito-exe" alt="incognito-exe" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/incognito_exe_" target="blank"><img src="https://img.shields.io/twitter/follow/incognito_exe_?logo=twitter&style=for-the-badge" alt="incognito_exe_" /></a> </p>
 
-- 🔭 Login System **soon...**
+- 🔭 Login System: **soon...**
 
-- 🌱 I’m currently learning **Python, MYSQL, MongoDB**
+- 🌱 I’m currently learning: **Python, MYSQL, MongoDB**
 
-- 👨‍💻 All of my projects are available at [Avetrix.pl {soon...}](Avetrix.pl {soon...})
+- 👨‍💻 All of my projects are available at: Avetrix.pl {soon...}
 
-- 📝 I write articles on [Avetrix.pl/blog {soon...}](Avetrix.pl/blog {soon...})
+- 📝 I write articles on: Avetrix.pl/blog {soon...}
 
-- 📫 How to reach me **fkasperkiewiczpl@gmail.com**
+- 📫 How to reach me: **fkasperkiewiczpl@gmail.com**
 
-- ⚡ Fun fact **I can do anything, but I don't need anything**
+- ⚡ Fun fact: **I can do anything, but I don't need anything**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
