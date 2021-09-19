@@ -16,8 +16,8 @@
 
 - ⚡ Fun fact: **I can do anything, but I don't need anything**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://codepen.io/incognito-exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="incognito-exe" height="30" width="40" /></a>
 <a href="https://dev.to/incognito_exe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="incognito_exe" height="30" width="40" /></a>
 <a href="https://twitter.com/incognito_exe_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="incognito_exe_" height="30" width="40" /></a>
