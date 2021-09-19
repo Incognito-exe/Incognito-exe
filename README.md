@@ -15,7 +15,8 @@
 
 - 📫 How to reach me: **fkasperkiewiczpl@gmail.com**
 
-- ⚡ Fun fact: **I can do anything, but I don't need anything** </p>
+- ⚡ Fun fact: **I can do anything, but I don't need anything** 
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
