@@ -6,15 +6,15 @@
 
 <p align="center">
 - 🔭 Login System: **soon...**
-
+<p align="center">
 - 🌱 I’m currently learning: **Python, MYSQL, MongoDB**
-
+<p align="center">
 - 👨‍💻 All of my projects are available at: Avetrix.pl {soon...}
-
+<p align="center">
 - 📝 I write articles on: Avetrix.pl/blog {soon...}
-
+<p align="center">
 - 📫 How to reach me: **fkasperkiewiczpl@gmail.com**
-
+<p align="center">
 - ⚡ Fun fact: **I can do anything, but I don't need anything** 
 
 <h3 align="center">Connect with me:</h3>
