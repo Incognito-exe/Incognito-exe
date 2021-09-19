@@ -2,7 +2,7 @@
 <h3 align="center">"Everything is possible"</h3>
 
 
-<p align="left"> <a href="https://twitter.com/incognito_exe_" target="blank"><img src="https://img.shields.io/twitter/follow/incognito_exe_?logo=twitter&style=for-the-badge" alt="incognito_exe_" /></a> </p>
+<p align="center"> <a href="https://twitter.com/incognito_exe_" target="blank"><img src="https://img.shields.io/twitter/follow/incognito_exe_?logo=twitter&style=for-the-badge" alt="incognito_exe_" /></a> </p>
 
 - 🔭 Login System: **soon...**
 
