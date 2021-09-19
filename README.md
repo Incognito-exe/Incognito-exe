@@ -4,6 +4,7 @@
 
 <p align="center"> <a href="https://twitter.com/incognito_exe_" target="blank"><img src="https://img.shields.io/twitter/follow/incognito_exe_?logo=twitter&style=for-the-badge" alt="incognito_exe_" /></a> </p>
 
+<p align="center">
 - 🔭 Login System: **soon...**
 
 - 🌱 I’m currently learning: **Python, MYSQL, MongoDB**
@@ -14,7 +15,7 @@
 
 - 📫 How to reach me: **fkasperkiewiczpl@gmail.com**
 
-- ⚡ Fun fact: **I can do anything, but I don't need anything**
+- ⚡ Fun fact: **I can do anything, but I don't need anything** </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
