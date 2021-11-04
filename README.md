@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at: Avetrix.pl {soon...}
 
-- 📝 I write articles on: Avetrix.pl/blog {soon...}
-
 - 📫 How to reach me: **fkasperkiewiczpl@gmail.com**
 
 - ⚡ Fun fact: **I can do anything, but I don't need anything** 
